@@ -51,25 +51,25 @@ This repository is intended for **demonstration and reproducibility of methodolo
 **Specificity:** 54%
 
 **Metrics Visualization:**  
-![Evaluation Metrics](outputs/metrics_barplot.png)  
+![Evaluation Metrics](outputs/visualizations/evaluation_plots/metrics_barplot.png)  
 
 **Confusion Matrix:**  
-![Confusion Matrix](outputs/confusion_matrix.png)  
+![Confusion Matrix](outputs/visualizations/evaluation_plots/confusion_matrix.png)  
 
 ---
 
 ##  Angle Distributions
 **Norberg Angle — Left Hip:**  
-![Norberg L](outputs/angle_dist_L.png)  
+![Norberg L](outputs/visualizations/evaluation_plots/angle_dist_L.png)  
 
 **Norberg Angle — Right Hip:**  
-![Norberg R](outputs/angle_dist_R.png)  
+![Norberg R](outputs/visualizations/evaluation_plots/angle_dist_R.png)  
 
 ---
 
 ##  Example Prediction
 *GT = Ground Truth, PR = Prediction*  
-![Sample Annotated Hip](outputs/10_hip0_annot.png)
+![Sample Annotated Hip](outputs/visualizations/annotated_preds/10_hip0_annot.png)
 
 ---
 
