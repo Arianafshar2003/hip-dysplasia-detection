@@ -102,7 +102,7 @@ This repository is intended for **demonstration and reproducibility of methodolo
 Install Python dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ##  Citation
