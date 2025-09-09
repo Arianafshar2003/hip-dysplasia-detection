@@ -1,4 +1,4 @@
-# 🐕 Hip Dysplasia Detection in Dogs
+# 🐕 Hip Dysplasia Detection in Dogs using Deep Learning
 
 This repository documents my pipeline for detecting **Canine Hip Dysplasia (CHD)** from pelvic X‑rays.  
 It combines **YOLOv8** for automatic hip region cropping and a **MobileNet CNN** for first Keypoint Detection and then classification based on calculated Norberg angles and image features.
