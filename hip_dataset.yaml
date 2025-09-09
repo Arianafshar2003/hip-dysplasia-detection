@@ -1,0 +1,6 @@
+
+train: /Users/aryan078/Desktop/CHD_project/hip_dataset/images/train
+val: /Users/aryan078/Desktop/CHD_project/hip_dataset/images/val
+
+nc: 1
+names: ['hip']

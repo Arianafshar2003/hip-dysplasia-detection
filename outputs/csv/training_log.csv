@@ -1,0 +1,2 @@
+stage,epoch,train_loss,val_rmse_px,val_angle_err
+stage1,1,5658.871319,78.190414,40.037213
